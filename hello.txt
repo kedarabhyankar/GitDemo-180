@@ -1,3 +1,6 @@
 Name: Kedar Abhyankar
 Age: 20
 Hometown: California
+Major: Computer Science
+Concentrations: Systems Programming, Programming Languages, and Software Engineering
+Minors: None
